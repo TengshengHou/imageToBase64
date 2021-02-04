@@ -1,2 +1,5 @@
 # imageToBase64
-提取html的图片相对路径并转换成base64
+
+提取html的img标签的src属性相对路径作为文件路径并转换成base64
+会把转换后的base64以字符串变量的形式存放在images.ts文件内
+会生成新的new.html文件image对应的src 为images.ts 的变量名。
