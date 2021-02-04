@@ -1,0 +1,2 @@
+# imageToBase64
+提取html的图片相对路径并转换成base64
